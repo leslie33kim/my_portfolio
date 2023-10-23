@@ -20,7 +20,7 @@ certifi==2022.12.7
 #charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1626371162869/work
 click==8.0.3
 #colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
-conda==4.13.0
+#conda==4.13.0
 #conda-package-handling @ file:///Users/runner/miniforge3/conda-bld/conda-package-handling_1618231726924/work
 #contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1673633839610/work
 #cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1616851494586/work
